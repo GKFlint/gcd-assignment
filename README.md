@@ -15,7 +15,7 @@ And is described fully at the site where it was obtained:
 
 * Repository: [UCI Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-The data includes `README.txt` and `features_info.txt` files describing the variables included within and study design. It has a total of 10,299 observations of 561 features, divided between training and test sets.
+The data includes `README.txt` and `features_info.txt` files describing the variables included within and study design. These were included in this repository for reference. It has a total of 10,299 observations of 561 features, divided between training and test sets.
 
 ## Assignment
 
